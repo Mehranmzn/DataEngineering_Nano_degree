@@ -7,6 +7,9 @@ name = "pypi"
 cassandra-driver = "*"
 pandas = "*"
 numpy = "*"
+ipython-sql = "*"
+sqlalchemy = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
