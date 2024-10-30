@@ -4,7 +4,7 @@
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 ![Data Engineering](https://img.shields.io/badge/Skills-Data%20Engineering-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Certification](assets/udacity-certification.png)
+![Certification](assets/cert.png)
 
 This repository contains projects completed as part of the **Data Engineering with Microsoft Azure** Nanodegree on Udacity. This program focused on applying Azure-based data engineering skills to real-world scenarios, covering essential topics like data modeling, NoSQL databases, ETL (Extract, Transform, Load) processes, and data pipeline automation with Azure services.
 
