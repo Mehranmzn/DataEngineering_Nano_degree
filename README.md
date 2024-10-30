@@ -8,19 +8,19 @@
 
 This repository contains projects completed as part of the **Data Engineering with Microsoft Azure** Nanodegree on Udacity. This program focused on applying Azure-based data engineering skills to real-world scenarios, covering essential topics like data modeling, NoSQL databases, ETL (Extract, Transform, Load) processes, and data pipeline automation with Azure services.
 
-## Table of Contents
+## Table of Contents :mortar_board: :books:
 
-- [Project Overview](#project-overview)
-- [Skills and Tools](#skills-and-tools)
+- [Project Overview](#project-overview) :rocket:
+- [Skills and Tools](#skills-and-tools) :hammer_and_wrench:
 - [Course Structure](#course-structure)
-- [Projects](#projects)
+- [Projects](#projects) :floppy_disk: :construction_worker:
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 ---
 
-## Project Overview
+## Project Overview :blue_book:
 
 This repository contains several projects developed to demonstrate key data engineering concepts and Azure technologies. The projects are designed to build expertise in:
 
@@ -38,7 +38,7 @@ This repository contains several projects developed to demonstrate key data engi
 - Configuration files
 - Instructions for replicating the environment and workflows
 
-## Skills and Tools
+## Skills and Tools :toolbox:
 
 The course and projects helped build skills with the following tools and technologies:
 
@@ -52,11 +52,11 @@ The course and projects helped build skills with the following tools and technol
 
 ---
 
-## Course Structure
+## Course Structure :bookmark_tabs:
 
 The course was structured into key sections, each with projects designed to reinforce the specific skills taught. Here is a breakdown of each course module:
 
-### Data Modeling and Ingestion
+### Data Modeling and Ingestion :wrench:
 - **Key Topics**: Data modeling fundamentals, database schema design, data ingestion strategies.
 - **Tools**: Azure SQL Database, Azure Synapse Analytics, Data Factory.
 
@@ -78,7 +78,7 @@ The course was structured into key sections, each with projects designed to rein
 
 ---
 
-## Projects
+## Projects :floppy_disk: :construction_worker:
 
 ### Project 1: Data Modeling and ETL Pipeline with Azure SQL Database
 - **Objective**: Develop a database schema and ETL pipeline for a retail data use case.
@@ -88,7 +88,7 @@ The course was structured into key sections, each with projects designed to rein
 - **Objective**: Design a NoSQL data model for a streaming service and implement it in Cassandra.
 - **Technologies**: Cassandra, Python.
 
-### Project 3: Data Warehousing and Analytics with Azure Synapse
+### Project 3: Data Warehousing and Analytics with Azure Synapse :construction_worker:
 - **Objective**: Create a data warehouse and perform analytics using Azure Synapse.
 - **Technologies**: Azure Synapse Analytics, SQL.
 
@@ -96,7 +96,7 @@ Each project folder includes detailed instructions and example code to help you 
 
 ---
 
-## Usage
+## Usage :wrench:
 
 Each project has its own `README` file with specific instructions on usage, running pipelines, and testing the outcomes.
 
@@ -106,12 +106,12 @@ Each project has its own `README` file with specific instructions on usage, runn
 
 ---
 
-## Contributing
+## Contributing :raised_hands:
 
 This repository is intended as a personal portfolio, but feedback and suggestions are welcome! If you'd like to make improvements, please feel free to fork the repository and submit a pull request.
 
 ---
 
-## License
+## License :scroll:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
